@@ -88,5 +88,8 @@ Sebuah perusahaan ingin mengetahui apakah skor tes karyawan dipengaruhi oleh dua
 Selain itu, ingin diketahui juga apakah ada **interaksi antara pelatihan dan pendidikan** yang memengaruhi hasil tes.
 
 ## Kesimpulan
-Analisis ANOVA sangat bermanfaat untuk membandingkan rata-rata dari beberapa kelompok secara statistik. Dengan memenuhi asumsi-asumsi dasar, kita bisa menarik kesimpulan yang valid terkait faktor-faktor yang memengaruhi suatu hasil atau performa.
+Analisis ANOVA merupakan alat yang sangat penting dalam statistik untuk membandingkan rata-rata dari beberapa kelompok. Dengan memenuhi asumsi-asumsinya (seperti normalitas dan homogenitas varians), ANOVA membantu kita menyimpulkan:
+- Apakah suatu perlakuan atau kondisi memiliki pengaruh signifikan.
+- Faktor mana yang paling berpengaruh terhadap hasil/performa.
+
 
