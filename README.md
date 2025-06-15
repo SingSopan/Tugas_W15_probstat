@@ -76,5 +76,15 @@ ttest_BC = stats.ttest_ind(kelas_B, kelas_C)
 print(f"T-test A vs B: t = {ttest_AB.statistic:.4f}, p = {ttest_AB.pvalue:.4f}")
 print(f"T-test A vs C: t = {ttest_AC.statistic:.4f}, p = {ttest_AC.pvalue:.4f}")
 print(f"T-test B vs C: t = {ttest_BC.statistic:.4f}, p = {ttest_BC.pvalue:.4f}")
+
 ## Studi Kasus 2
+### **studi kasus two-way anova**
+
+**Masalah:**  
+Sebuah perusahaan ingin mengetahui apakah skor tes karyawan dipengaruhi oleh dua faktor:
+- **Jenis pelatihan** (A atau B)
+- **Tingkat pendidikan** (SMA, S1, S2)
+
+Selain itu, ingin diketahui juga apakah ada **interaksi antara pelatihan dan pendidikan** yang memengaruhi hasil tes.
+
 ## Kesimpulan
